@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ChatApp1.0</string>
+    <string name="_201813709001_n_ebrar_basaran">201813709001 \n Ebrar Basaran</string>
+    <string name="hi_there_nice_to_see_you_again">Hi there!Nice to see you again.</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="add_image">Add Image</string>
+    <string name="sign_in">Sign In</string>
+    <string name="name">Name</string>
+    <string name="confirm_password">Confirm Password</string>
+</resources>
